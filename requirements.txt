@@ -2,8 +2,6 @@ numpy
 pandas
 matplotlib
 nltk
-pickle
 streamlit
-pip
 scikit-learn
-sklearn
+Sastrawi
